@@ -1,9 +1,9 @@
-"Portfolio Sampl" 
+"Portfolio Sample" 
 
-Name
+Portfolio Sample
 ====
 
-プロジェクトの概要説明
+ポートフォリオのサンプルです。
 
 ## デモ
 [webサイトを見る](https://techis-jp-portfolio-sample0.herokuapp.com/)
